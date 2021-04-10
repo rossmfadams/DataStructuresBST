@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/x64/Debug
+/.vs/project3/v16
+/readme.md
+/Project3_Output.png
+/project3.vcxproj.user
+/project3.vcxproj.filters
+/project3.vcxproj
+/project3.sln
+/Output_Lab3.png
+/.vs/DataStructuresBST/v16/Browse.VC.opendb
+/.vs/DataStructuresBST/v16/Browse.VC.db-wal
+/.vs/DataStructuresBST/v16/Browse.VC.db-shm
+/.vs/DataStructuresBST/v16/Browse.VC.db
+/.vs/DataStructuresBST/v16/.suo
